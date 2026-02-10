@@ -1,8 +1,8 @@
 import java.util.Scanner;
 import java.io.*;
 
-//hjsh
 // Base class: Student
+//dfded
 class Student {
     String name;
     int id;
