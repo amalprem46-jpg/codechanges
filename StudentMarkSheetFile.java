@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.io.*;
 
-//add
+
 class Student {
     String name;
     int id;
