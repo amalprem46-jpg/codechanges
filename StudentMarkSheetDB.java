@@ -221,7 +221,7 @@ public class StudentMarkSheetDB {
         } catch (Exception e) { System.out.println("Database Error: " + e.getMessage()); }
     }
 
-    // 🔹 Delete Student
+   
     static void deleteStudent() {
         System.out.print("Enter student ID to delete: ");
         int deleteId;
