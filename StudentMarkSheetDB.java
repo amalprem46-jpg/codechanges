@@ -1,7 +1,7 @@
 import java.util.*;
 import java.sql.*;
 
-
+// add
 interface Student {
     void getStudentName(Scanner sc);
     void getMarks(Scanner sc);
